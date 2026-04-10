@@ -1,4 +1,26 @@
-# Student Record Manager
+# Task :-- Student Record Manager 
+
+  # Operations to perform :
+
+    # .Create a console menu that runs in a loop until the user exits.
+    
+    # .Your program should support
+    
+    # .Add a student record with name and marks
+    
+    # .View all student records
+    
+    # .Search a student by name
+    
+    # .Update a student’s marks
+    
+    # .Delete a student record
+    
+    # .Save records to a file
+    
+    # .Load records automatically when the program starts
+
+    # .Handle invalid inputs gracefully
 
 students = {}
 DATA_FILE = "students.txt"
